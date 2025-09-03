@@ -1,45 +1,71 @@
 # 👋 Hi, I'm Hrishikesh Nanda  
 
-🚀 **Aspiring Data Analyst** | 📊 Turning raw data into actionable insights  
-
-![Profile Banner](https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-8073.jpg)  
+🚀 Aspiring Data Analyst | Turning raw data into actionable insights  
 
 ---
 
 ## ✨ About Me  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7E9&width=435&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Transforming+Data+into+Insights)](https://git.io/typing-svg)  
-
 I'm **Hrishikesh Nanda**, an aspiring **Data Analyst** with hands-on experience in **Excel, SQL, Python, Tableau, and Power BI**.  
-I enjoy uncovering patterns, solving problems with data, and building dashboards that help organizations make **smarter decisions**.  
+I enjoy uncovering patterns, solving problems with data, and building dashboards that help organizations make smarter decisions.  
 
 ---
 
 ## 🛠️ Skills  
 
-- **Languages & Tools**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white)  
-  ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- Python | SQL | Pandas | Matplotlib  
+- Power BI | Tableau | Excel | Power Query | DAX  
 
 ---
 
 ## 📂 Projects  
 
-### 📊 Profit Margins & Trends in Sales Data  
-- Conducted sales data analysis to evaluate **profit margins & monthly trends**.  
-- Utilized **Python, Pandas, Matplotlib** for data processing & visualization.  
+**Profit Margins & Trends in Sales Data**  
+- Conducted sales data analysis to evaluate profit margins & monthly trends.  
+- Utilized Python, Pandas, Matplotlib for data processing & visualization.  
 - Provided insights for strategic business decisions.  
 
-![Data Visualization](https://img.freepik.com/free-vector/infographic-dashboard-template_52683-121.jpg)  
+**Sales Performance Dashboard**  
+- Built an interactive Power BI dashboard from sample sales data.  
+- Tracked KPIs like total sales, regional trends, and product contribution.  
+- Applied Power Query for cleaning & DAX for calculations.  
 
-### 📈 Sales Performance Dashboard  
-- Built an **interactive Power BI dashboard** from sample sales data.  
-- Tracked KPIs like **total sales, regional trends, and product contribution**.  
-- Applied **Power Query** for cleaning & **DAX** for calculations.  
+---
 
-![Dashboard](https://img.freepik.c)
+## 💼 Experience  
+
+**Data Analyst Intern – Deloitte India (Remote, 2025)**  
+- Analyzed business data, created trends/charts using Excel & SQL.  
+- Collaborated with the data team and communicated findings.  
+
+**Data Science Intern – Whizzo Infotech Pvt. Ltd (2021-2022)**  
+- Hands-on data analysis & visualization using Excel & Power BI.  
+- Worked with SQL for data manipulation and extraction.  
+
+---
+
+## 🎓 Education  
+
+- Engineering – Kalam Institute of Technology (2017 – 2020)  
+- Diploma – BPUT (2014 – 2016)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Hrishikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)  
+
+---
+
+## 📫 Connect with Me  
+
+- LinkedIn: [linkedin.com/in/hrishikesh-nanda-0ab371245](https://linkedin.com/in/hrishikesh-nanda-0ab371245)  
+- Email: **hrishinanda2@gmail.com**  
+
+---
+
+⭐️ *"Passionate about fitness, weightlifting, and using data to drive decisions."*  
