@@ -68,4 +68,11 @@ I enjoy uncovering patterns, solving problems with data, and building dashboards
 
 ---
 
+## 🐍 GitHub Contribution Snake  
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
 ⭐️ *"Passionate about fitness, weightlifting, and using data to drive decisions."*  
+
